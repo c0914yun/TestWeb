@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:/login/ajax+controller+Mybatis实现登录注册修改和删除以及session操作/ChatRobot/ChatRobot.iml" filepath="H:/login/ajax+controller+Mybatis实现登录注册修改和删除以及session操作/ChatRobot/ChatRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExcelDemo.iml" filepath="$PROJECT_DIR$/../ExcelDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWeb.iml" filepath="$PROJECT_DIR$/TestWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../maven/excel.iml" filepath="$PROJECT_DIR$/../../maven/excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mavenOne/mavenOne.iml" filepath="$PROJECT_DIR$/../../mavenOne/mavenOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../maventwo/maventwo.iml" filepath="$PROJECT_DIR$/../../maventwo/maventwo.iml" />
+    </modules>
+  </component>
+</project>

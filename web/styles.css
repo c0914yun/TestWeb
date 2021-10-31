@@ -1,0 +1,68 @@
+
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 354px;
+    margin: 0 auto;
+}
+.form{
+    height: 300px;/*元素的高度*/
+    position: absolute;
+    top: 50%;/*元素的顶部边界离父元素的位置是父元素高度的一半*/
+    margin-top: -150px;/*设置元素顶边负边距，大小为父元素高度的一半*/
+}
+.input{
+    border: 1px solid #B8B8B8;
+    width: 280px;
+    height: 45px;
+    padding: 0 10px;
+    border-radius:5px ;/*将输入框变为圆角的，5px为圆角半径*/
+}
+.captcha_input{
+    border: 1px solid #B8B8B8;
+    width: 184px;
+    height: 45px;
+    padding: 0 10px;
+    /*border-radius:5px;将输入框变为圆角的，5px为圆角半径*/
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+input,
+img{vertical-align: middle;}/*让输入框和验证码图片水平局中对齐,默认情况下，图片会高出文本框一些，很难看*/
+
+img{
+    height: 45px;
+    width: 90px;
+}
+.login{
+    width: 350px;
+    color: #fff;
+    background-color: #4798F6;
+    border: none;
+    margin-top: 10px;
+
+}
+/*分割线样式*/
+.divider{
+    letter-spacing: -1px;
+    color: #ddd;
+    text-align: center;
+
+}
+.divider span{
+    letter-spacing: 0;
+    color: #B8B8B8;
+    margin: 0 20px;
+
+
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+    color: #B8B8B8;
+
+}

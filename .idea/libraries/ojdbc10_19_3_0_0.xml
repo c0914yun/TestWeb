@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc10-19.3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../maventwo/src/main/webapp/WEB-INF/lib/ojdbc10-19.3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

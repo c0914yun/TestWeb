@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../1" />
+    <file type="web" url="file://$PROJECT_DIR$/.." />
+    <file type="web" url="file://$PROJECT_DIR$/../../maven" />
+    <file type="web" url="file://$PROJECT_DIR$/../../mavenOne" />
+    <file type="web" url="file://$PROJECT_DIR$/../../maventwo" />
+    <file type="web" url="file://H:/login/ajax+controller+Mybatis实现登录注册修改和删除以及session操作/ChatRobot" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../pom.xml" />
+        <option value="$PROJECT_DIR$/../../mavenOne/pom.xml" />
+        <option value="$PROJECT_DIR$/../../maven/maven3/pom.xml" />
+        <option value="$PROJECT_DIR$/../../maven/pom.xml" />
+        <option value="$PROJECT_DIR$/../../maventwo/pom.xml" />
+        <option value="H:/login/ajax+controller+Mybatis实现登录注册修改和删除以及session操作/ChatRobot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PWA">
+    <option name="wasEnabledAtLeastOnce" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

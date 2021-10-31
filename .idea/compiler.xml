@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="excel" />
+        <module name="mavenOne" />
+        <module name="maventwo" />
+        <module name="ChatRobot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChatRobot" target="1.8" />
+      <module name="excel" target="16.0" />
+      <module name="ExcelDemo" target="1.5" />
+      <module name="maven3" target="16.0" />
+      <module name="mavenOne" target="16.0" />
+      <module name="maventwo" target="16.0" />
+      <module name="mavenTwo" target="16.0" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

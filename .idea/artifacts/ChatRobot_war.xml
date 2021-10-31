@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ChatRobot:war">
+    <output-path>H:/login/ajax+controller+Mybatis实现登录注册修改和删除以及session操作/ChatRobot/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>ChatRobot</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="ChatRobot.war">
+      <element id="artifact" artifact-name="ChatRobot:war exploded" />
+    </root>
+  </artifact>
+</component>

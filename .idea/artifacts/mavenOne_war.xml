@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenOne:war">
+    <output-path>$PROJECT_DIR$/../../mavenOne/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>mavenOne</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="mavenOne.war">
+      <element id="artifact" artifact-name="mavenOne:war exploded" />
+    </root>
+  </artifact>
+</component>
